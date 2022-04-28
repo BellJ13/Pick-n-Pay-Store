@@ -1,8 +1,8 @@
-Shopper Pick N' Pay: An Online Store Application
-Project Description
+##Shopper Pick N' Pay: An Online Store Application
+#Project Description
 
 This project is a single base application that behaves like e-commerce applications such as Amazon, Etsy and more.
-Technologies Used
+#Technologies Used
 
     XCode 13 - IDE
     Swift 5 - Programming Language
@@ -11,67 +11,46 @@ Technologies Used
     SwiftUI - Interface Builder
     UIKit - Interface Builder
 
-Features
+#Features
 
     SwiftUI - UIKit (vice-versa) Implementation
     CoreData CRUD Implementation
 
-Getting Started
+#Getting Started
 
-    All we need to do is to clone the project into your desired folder using the following command: git clone https://github.com/PabloDeLaCruz1/Pick-n-Pay-Store.git.
+   1. All we need to do is to clone the project into your desired folder using the following command: git clone https://github.com/PabloDeLaCruz1/Pick-n-Pay-Store.git.
 
-Getting Started
 
-    Once cloning is done, switch to the Pick-n-Pay-Store folder and click on Pick-n-Pay-Store.xcodeproj
+   2. Once cloning is done, switch to the Pick-n-Pay-Store folder and click on Pick-n-Pay-Store.xcodeproj
 
-Next Step
 
-    Select "iPhone 11 Pro Max" as your simulator and click the Play button to start the application.
+    3. Select "iPhone 11 Pro Max" as your simulator and click the Play button to start the application.
 
-Simulation Preparation
-
-    Voila, you can now start signing-up to play around with the application
-
-End Product
-Usage
+#Usage
 
 Below are screenshots of the project in action:
-LANDING PAGES
+#LANDING PAGES
+![image](https://user-images.githubusercontent.com/99766415/165810135-12438fbc-b482-4dce-8265-b6a7845245af.png)
+![image](https://user-images.githubusercontent.com/99766415/165810317-bf6e6ba7-3c47-46ae-b681-48148faea431.png)
+![image](https://user-images.githubusercontent.com/99766415/165810401-d54be813-b8e4-482d-83d8-1cc0fabc41eb.png)
 
-End Product
+#HOME FEATURE
+![image](https://user-images.githubusercontent.com/99766415/165811109-531a41a7-ca7f-4341-8408-e08bcc58d037.png)
 
-Left Image: Home Page • Middle Image: Sign-Up Page • Right Image: Login Page
-HOME FEATURE
 
-End Product
+#CART FEATURE
+![image](https://user-images.githubusercontent.com/99766415/165811364-30dff55c-b03a-4c41-8adb-42359cf9fda6.png)
 
-Left Image: Regular View • Right Image: Detail View
-CART FEATURE
+#CART FEATURE: SHIPPING INFORMATION
+![image](https://user-images.githubusercontent.com/99766415/165811477-4469c68d-f46f-419f-9c64-9c9d0983b92c.png)
 
-End Product
+#CART FEATURE: PAYMENT INFORMATION
+![image](https://user-images.githubusercontent.com/99766415/165811927-4495f8b3-2017-4e1d-8805-188edae52f1d.png)
 
-Left Image: Empty Cart View • Right Image: Cart With Items
-CART FEATURE: SHIPPING INFORMATION
+#ORDERS FEATURE
+![image](https://user-images.githubusercontent.com/99766415/165812363-da2d5a52-6f04-432b-8087-8a9f6da59ebb.png)
 
-End Product
-
-Left Image: Available Shipping Addresses • Right Image: Adding Shipping Address Form
-CART FEATURE: PAYMENT INFORMATION
-
-End Product
-
-Left Image: Available Payment Methods • Right Image: Adding Payment Method Form For Debit / Credit Cards
-CART FEATURE: SAVED ITEMS
-
-End Product
-
-Left Image: Empty Saved Cart • Right Image: Cart With Saved Items
-ORDERS FEATURE
-
-End Product
-
-Left Image: Place Your Order Page • Right Image: Orders Page
-Contributors
+#Contributors
 
 Pablo DeLa Cruz
 
@@ -82,23 +61,19 @@ Stephanie Marin
 Hamza Ahmed
 
 Joseph Bell
-Note
 
-This is a group project under the supervision of Ms. Asha Rani. If you find your icons in this application, please e-mail me at mllsumulong@gmail.com for proper attribution.
-Credits
 
-Icons:
+
+#Icons:
 
 https://www.flaticon.com/authors/freepik
 
 Main Logo: Vector image by VectorStock / vectorstock
 
-Open Sources
+#Open Sources
 
     https://awesomeopensource.com/project/shameemreza/uray
     Ray Wenderlich
     https://www.brandcrowd.com/
     https://github.com/vadymmarkov/Fakery
 
-Main Team Documents
-Outline
